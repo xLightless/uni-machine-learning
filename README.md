@@ -2,7 +2,7 @@
 A group project by Students in Machine Learning tasked with solving real world problems.
 
 # Installation
-- Open VSCode terminal and type git clone https://github.com/xLightless/uni-machine-learning.git
+- Open VSCode terminal and type "git clone https://github.com/xLightless/uni-machine-learning.git"
 - After type "py -m venv .venv"
 - Next, change directory (cd) to .venv and then activate it.
 - pip install -r requirements.txt
