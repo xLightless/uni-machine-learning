@@ -1,6 +1,6 @@
 Number of Instances: 768
 
-Number of Attributes: 8 plus class
+Number of Attributes (Features): 8 plus class
 
 For Each Column:
 1. Number of times pregnant
