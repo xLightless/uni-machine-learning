@@ -11,3 +11,11 @@ A group project by Students in Machine Learning tasked with solving real world p
 # Data Collection
 Data can publically be acquired via Yahoo Finance. This project uses an unofficial API to accommodate for the collection of such data.
 It also comes with a large community therefore it is a good choice for potential Machine Learning configurations such as SVMs with PSO.
+
+# Topic: Individual Assessment
+## Using ML algorithm classification on real world data.
+## Machine Learning, 19th Feb 2024 - 29th March 2024.
+
+# Learning Outcomes:
+## MO1 Compare and contrast the basic principles and characteristics# Learning Outcomes
+
