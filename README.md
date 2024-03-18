@@ -34,23 +34,23 @@ Assessment folder on the Blackboard
 Select, train, apply, evaluate using appropriate performance metrics and 
 present an SVM model using an appropriate kernel. Describe, explain and 
 justify the selection of any appropriate hyper-parameters (i.e., 𝑪, 𝒅, 𝒓, 𝜸) 
-for the model. 
+for the model.
+
 Select, train, apply, evaluate using appropriate performance metrics and 
 present an ensemble using an appropriate ensemble method. Describe, 
 explain and justify the selection of any appropriate hyper-parameters 
 (i.e., number of base classifiers, the size of the random subsets of data, 
 the size of the random subsets of features, the level of the decision trees, 
 learning rate, etc.) for the model.  
-Machine Learning                UFCFAS-15-2 
-Page 2 of 4 
- 
+
 Describe, explain and justify your approach to building each of the two 
 models, including the key machine learning concepts involved, use of any 
 library/function that is not covered in any practical notebook, the methods 
 you have used and the design decisions you have made in each step. 
 Compare the performance of the two models using appropriate 
 performance metrics, and contrast the advantages and disadvantages of 
-the two models/machine learning algorithms. 
+the two models/machine learning algorithms.
+
 Along with the code cells, you should use the appropriate markdown cells 
 in the notebook to structure your notebook, and to describe, explain, 
 justify and discuss your work.
