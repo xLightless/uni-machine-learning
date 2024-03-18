@@ -14,7 +14,8 @@ and ensembles, on the dataset.
 ## The Dataset:
 The dataset is given in a .csv file that is ready to use for 
 the assignment. The dataset and its brief description are in the 
-Assessment folder on the Blackboard
+Assessment folder on the Blackboard. Alternatively, you can find it in this
+project inside "uni-machine-learning\\Individual Assessment\\dataset\\diabetes.csv"
 
 ## The Requirements:
 Select, train, apply, evaluate using appropriate performance metrics and 
